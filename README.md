@@ -36,8 +36,8 @@ Before you start following the guidelines, make sure to go through the prerequis
     ```
 
 5. Replace the keys
-    - Search for `openai.api_key` and assign your key
-    - Search for `mindsdb` and assign your account username and password
+    - Search for `openai.api_key` and assign your key (File: `GPT_example_1.py`)
+    - Search for `mindsdb` and assign your account username and password (File: `server.py`)
 
 6. Server 
    ```sh 
