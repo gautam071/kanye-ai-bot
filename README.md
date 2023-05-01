@@ -1,1 +1,1 @@
-Installation steps ```sh in progress!```
+Installation steps ```In progress!```
