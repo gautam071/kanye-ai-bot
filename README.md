@@ -36,8 +36,8 @@ Before you start following the guidelines, make sure to go through the prerequis
     ```
 
 5. Replace the keys
-    i  - Search for `openai.api_key` and assign your key
-    ii - Search for `mindsdb` and assign your account username and password
+    - Search for `openai.api_key` and assign your key
+    - Search for `mindsdb` and assign your account username and password
 
 6. Server 
    ```sh 
