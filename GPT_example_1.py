@@ -1,7 +1,7 @@
 import openai
 
 # Set up your API key
-openai.api_key = "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"
+openai.api_key = " "
 
 # Set up the prompt and parameters
 prompt = "What is the meaning of life?"
